@@ -28,7 +28,7 @@ Check my website at **[MarceloArias.com](https://marceloarias.com/)** or contact
 <a href="https://platzi.com/p/360macky/"><img src="https://img.shields.io/badge/-Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi" style="border-radius: 10px"></a>
 <a href="https://www.reddit.com/user/360macky"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" style="border-radius: 10px"></a>
 <a href="https://dev.to/360macky"><img src="https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" style="border-radius: 10px"></a>
-<a href="https://twitter.com/360macky"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 10px"></a>
+<a href="https://twitter.com/marcelo_earth"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 10px"></a>
 <a href="https://news.ycombinator.com/user?id=360macky"><img src="https://img.shields.io/badge/-HackerNews-FF4500?style=for-the-badge&logo=ycombinator&logoColor=white" alt="HackerNews" style="border-radius: 10px"></a>
 <a href="https://community.openai.com/u/360macky"><img src="https://img.shields.io/badge/-OpenAI%20Community-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Community Forum" style="border-radius: 10px"></a>
 <a href="https://developers.google.com/profile/u/105450756310364484515"><img src="https://img.shields.io/badge/-Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" style="border-radius: 10px"></a>
