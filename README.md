@@ -3,10 +3,9 @@
 I'm [Marcelo Arias](https://marceloarias.com), an independent software creator.
 
 - ⚡️ I have 9 years creating software.
-- 🏢 My software studio is **[The Astronomical Software Company](https://astronware.com)**.
-- 🎓 I have a degree in **Software Development** from the **National Institute of Technology**.
+- 🏢 My software studio is **[Astronware](https://astronware.com)**.
 - 🛰 I'm creator of **[Graphem](https://graphem.space/)**, a plugin for [NASA Open MCT](http://github.com/nasa/openmct) to connect [GraphQL realtime data](https://graphql.org/blog/subscriptions-in-graphql-and-relay/).
-- 💚 I'm Computer Science teacher at **[Platzi](https://platzi.com/)**.
+- 💚 I'm teacher at **[Platzi](https://platzi.com/)** for courses related to the development of AI agents.
 - 🪐 I'm moderator of **[DEV](https://dev.to)**, the largest social network for software developers.
 - 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
 - 🧠 Python Developer Volunteer and speaker of **[Data Science Research Peru](https://www.datascience.pe/)**.
