@@ -33,6 +33,6 @@ Check my website at **[MarceloArias.com](https://marceloarias.com/)** or contact
 <a href="https://developers.google.com/profile/u/105450756310364484515"><img src="https://img.shields.io/badge/-Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" style="border-radius: 10px"></a>
 <a href="https://hackernoon.com/u/360macky"><img src="https://img.shields.io/badge/-HackerNoon-black?style=for-the-badge&logo=hackernoon&logoColor=white" alt="HackerNoon" style="border-radius: 10px"></a>
 
-### YouTube Channels
+### Audiovisual Projects
 
 - [🎨 Arte de programar](https://artedeprogramar.org/) - Computer Science topics explained with animations and illustrations.
