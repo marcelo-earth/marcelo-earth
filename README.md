@@ -9,7 +9,7 @@ I'm [Marcelo Arias](https://marceloarias.com), an independent software creator.
 - 🪐 I'm moderator of **[DEV](https://dev.to)**, the largest social network for software developers.
 - 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
 - 🧠 Python Developer Volunteer and speaker of **[Data Science Research Peru](https://www.datascience.pe/)**.
-- 🔭 I'm currently experimenting in **Large Language Models**.
+- 🔭 I'm currently experimenting with **Large Language Models**.
 - 🎮 I'm member of the **[OpenAI Developer Forum](https://community.openai.com/)** and Beta Tester of [GPT series models](https://openai.com/blog/chatgpt).
 
 Check my website at **[MarceloArias.com](https://marceloarias.com/)** or contact me at **[hello@marceloarias.com](mailto:hello@marceloarias.com)**.
@@ -24,7 +24,7 @@ Check my website at **[MarceloArias.com](https://marceloarias.com/)** or contact
 <a href="https://www.linkedin.com/in/marcelo-arias/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px"></a>
 <a href="https://mastodon.social/@360macky"><img src="https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" style="border-radius: 10px"></a>
 <a href="https://www.researchgate.net/profile/Marcelo_Arias6"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" style="border-radius: 10px"></a>
-<a href="https://platzi.com/p/360macky/"><img src="https://img.shields.io/badge/-Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi" style="border-radius: 10px"></a>
+<a href="https://platzi.com/p/marcelo_earth/"><img src="https://img.shields.io/badge/-Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi" style="border-radius: 10px"></a>
 <a href="https://www.reddit.com/user/360macky"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" style="border-radius: 10px"></a>
 <a href="https://dev.to/360macky"><img src="https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" style="border-radius: 10px"></a>
 <a href="https://twitter.com/marcelo_earth"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 10px"></a>
@@ -35,4 +35,4 @@ Check my website at **[MarceloArias.com](https://marceloarias.com/)** or contact
 
 ### Audiovisual Projects
 
-- [🎨 Arte de programar](https://artedeprogramar.org/) - Computer Science topics explained with animations and illustrations.
+- [🎨 Artefisual](https://artedeprogramar.org/) - Computer Science topics explained with animations and illustrations.
