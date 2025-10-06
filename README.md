@@ -2,7 +2,7 @@
 
 I'm [Marcelo Arias](https://marceloarias.com), an independent software creator.
 
-- ⚡️ I have 9 years creating software.
+- ⚡️ I have 10 years creating software.
 - 🏢 My software studio is **[Astronware](https://astronware.com)**.
 - 🛰 I'm creator of **[Graphem](https://graphem.space/)**, a plugin for [NASA Open MCT](http://github.com/nasa/openmct) to connect [GraphQL realtime data](https://graphql.org/blog/subscriptions-in-graphql-and-relay/).
 - 💚 I'm teacher at **[Platzi](https://platzi.com/)** for courses related to the development of AI agents.
