@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Marcelo Arias](https://marceloarias.com), an independent software creator.
+I'm [Marcelo Arias](https://marceloarias.com), a software creator.
 
 - ⚡️ I have 10 years creating software.
 - 🏢 My software studio is **[Astronware](https://astronware.com)**.
