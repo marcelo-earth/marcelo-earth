@@ -35,4 +35,4 @@ Check my website at **[MarceloArias.com](https://marceloarias.com/)** or contact
 
 ### Audiovisual Projects
 
-- [🎨 Artefisual](https://artedeprogramar.org/) - Computer Science topics explained with animations and illustrations.
+- [🎨 Artefisual](https://artefisual.com/) - Computer Science topics explained with animations and illustrations.
