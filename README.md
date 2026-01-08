@@ -22,7 +22,6 @@ Check my website at **[MarceloArias.com](https://marceloarias.com/)** or contact
   
 <a href="mailto:hello@marceloarias.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px"></a>
 <a href="https://www.linkedin.com/in/marcelo-arias/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px"></a>
-<a href="https://mastodon.social/@360macky"><img src="https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" style="border-radius: 10px"></a>
 <a href="https://www.researchgate.net/profile/Marcelo_Arias6"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" style="border-radius: 10px"></a>
 <a href="https://platzi.com/p/marcelo_earth/"><img src="https://img.shields.io/badge/-Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi" style="border-radius: 10px"></a>
 <a href="https://www.reddit.com/user/360macky"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" style="border-radius: 10px"></a>
