@@ -5,6 +5,7 @@ I'm [Marcelo Arias](https://marceloarias.com), a software creator
 - ⚡️ I have 10 years creating software.
 - 🏢 My software studio is **[Astronware](https://astronware.com)**.
 - 🛰 I'm creator of **[Graphem](https://graphem.space/)**, a plugin for [NASA Open MCT](http://github.com/nasa/openmct) to connect [GraphQL realtime data](https://graphql.org/blog/subscriptions-in-graphql-and-relay/).
+- 📖 I give workshops on **[Artefisual](https://artefisual.com)**. You should join us!, we run study and practice groups to learn skills in the new _artificial_ economy.
 - 💙 I use **[Experiwall](https://experiwall.com)** to find what users love.
 - 💚 I'm teacher at **[Platzi](https://platzi.com/)** for courses related to the development of AI agents.
 - 🪐 I'm moderator of **[DEV](https://dev.to)**, the largest social network for software developers.
